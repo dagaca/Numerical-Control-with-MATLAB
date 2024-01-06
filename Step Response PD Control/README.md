@@ -1,5 +1,5 @@
 # Step Response PD Control
-Bu proje, birim geri beslemeli sistemde Proportional-Derivative (PD) kontrol kullanılarak elde edilen birim adım cevabını MATLAB ile çizmektedir.
+Bu MATLAB projesi, birim geri beslemeli sistemde Proportional-Derivative (PD) kontrol kullanılarak elde edilen birim adım cevabını MATLAB ile çizmektedir.
 
 ## İleri Yol Transfer Fonksiyonu
 Birim geri beslemeli sistem için kullanılan ileri yol transfer fonksiyonu aşağıdaki gibidir:
@@ -31,15 +31,3 @@ PD kontrolünün etkisi aşağıdaki gibidir:
 - Sönümleme (Damping): Sönümleme artmış, maksimum overshoot azalmıştır.
 - Bant Genişliği: Sistemin bant genişliği artmıştır.
 - Kalıcı Durum Hatası (ess): Birim adım cevabında kalıcı durum hatası 0'dır.
-
-## Nasıl Başlamalı?
-1. Bu repo'yu bilgisayarınıza klonlayın.
-   ```bash
-   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
-   ```
-2. MATLAB'e gidin ve stepResponse_PDControl.m dosyasını açın.
-
-3. Dosyayı çalıştırarak birim adım cevabını gözlemleyin.
-
-## Katkıda Bulunma
-Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen bir çatal oluşturun ve pull taleplerinizi gönderin. Katkılarınız çok değerlidir!
