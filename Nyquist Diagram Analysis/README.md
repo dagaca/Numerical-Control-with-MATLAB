@@ -48,3 +48,10 @@ hold off;
   PD kontrol ilave edildiğinde kazanç marjini sonsuz kabul edilir. Sistem kazanç marjini açısından sonsuz olduğu için göreli kararlılık faz marjini ile ölçülür.
 - **PD Kontrol ve Sistem Kararlılığı:**
   PD kontrol yapısı eklenerek sistem daha kararlı bir hale gelmiştir. Bu durum, sistemdeki kararlılık artışını gösterir.
+
+
+## Nasıl Başlamalı?
+1. Bu repo'yu bilgisayarınıza klonlayın.
+   ```bash
+   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+2. MATLAB'e gidin ve nyquistDiagramAnalysis.m dosyasını açın.
