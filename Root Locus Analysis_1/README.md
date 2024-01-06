@@ -30,3 +30,10 @@ grid on;
 ## Sistem Kökleri ve Kararlılık
 - Sistemde toplamda üç adet kök bulunmaktadır ve bu kökler sırasıyla -19.7, -0.253 ve 0'dır.
 - Sistemin kazancı 0 < K < 10 aralığındadır. Bu aralıkta sistem kararlıdır.
+
+
+## Nasıl Başlamalı?
+1. Bu repo'yu bilgisayarınıza klonlayın.
+   ```bash
+   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+2. MATLAB'e gidin ve rootLocusAnalysis_1.m dosyasını açın.
