@@ -4,7 +4,7 @@ Bu repo, MATLAB kullanarak sayısal kontrol sistemleri analizi ve tasarımını 
 
 ## Projeler
 
-### [Bode Diagram Analysis](Bode-Diagram-Analysis)
+### [Bode Diagram Analysis](Bode Diagram Analysis)
 Bu proje, belirli bir ileri yol transfer fonksiyonu için Bode diyagramını çizer ve bu diyagramdan elde edilen değerlere dayanarak sistemin kararlılık analizini gerçekleştirir.
 
 ### [Nyquist Diagram Analysis](NyquistDiagramAnalysis)
