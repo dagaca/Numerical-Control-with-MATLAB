@@ -1,5 +1,5 @@
-# Root Locus Analysis
-Bu MATLAB projesi, bir sistem transfer fonksiyonunun karakteristik eşitliğinin kökeğrilerini görselleştirmek için kullanılmaktadır.
+# Root Locus Analysis_2
+Bu MATLAB projesi, birim geri beslemeli sistemin ileri yol transfer fonksiyonu üzerinden kök eğrilerini görselleştirmektedir.
 
 ## İleri Yol Transfer Fonksiyonu
 
