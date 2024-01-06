@@ -1,6 +1,6 @@
 # Numerical Control with MATLAB
 
-Bu repo, MATLAB kullanarak sayısal kontrol sistemleri analizi ve tasarımını gerçekleştiren bir dizi projeyi içermektedir.
+Bu repo, MATLAB kullanarak sayısal kontrol sistemleri analizi ve tasarımını gerçekleştiren bir dizi projeyi içermektedir. Bu projeler, MATLAB R2017b sürümü kullanılarak oluşturulmuştur.
 
 ## Projeler
 
