@@ -27,10 +27,10 @@ PD kontrolünün etkisi aşağıdaki gibidir:
 
 ![performans](https://github.com/dagaca/Numerical-Control-with-MATLAB/assets/80363244/6ad3b544-2808-4263-af1b-068a8cd1ad64)
 
-Rise Time (tr) ve Settling Time (ts): PD kontrol sayesinde bu değerler azalmıştır.
-Sönümleme (Damping): Sönümleme artmış, maksimum overshoot azalmıştır.
-Bant Genişliği: Sistemin bant genişliği artmıştır.
-Kalıcı Durum Hatası (ess): Birim adım cevabında kalıcı durum hatası 0'dır.
+- Rise Time (tr) ve Settling Time (ts): PD kontrol sayesinde bu değerler azalmıştır.
+- Sönümleme (Damping): Sönümleme artmış, maksimum overshoot azalmıştır.
+- Bant Genişliği: Sistemin bant genişliği artmıştır.
+- Kalıcı Durum Hatası (ess): Birim adım cevabında kalıcı durum hatası 0'dır.
 
 ## Nasıl Başlamalı?
 1. Bu repo'yu bilgisayarınıza klonlayın.
