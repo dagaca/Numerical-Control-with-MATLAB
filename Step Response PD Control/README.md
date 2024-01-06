@@ -31,3 +31,11 @@ PD kontrolünün etkisi aşağıdaki gibidir:
 - Sönümleme (Damping): Sönümleme artmış, maksimum overshoot azalmıştır.
 - Bant Genişliği: Sistemin bant genişliği artmıştır.
 - Kalıcı Durum Hatası (ess): Birim adım cevabında kalıcı durum hatası 0'dır.
+
+
+## Nasıl Başlamalı?
+1. Bu repo'yu bilgisayarınıza klonlayın.
+   ```bash
+   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+   ```
+2. MATLAB'e gidin ve stepResponse_PDControl.m dosyasını açın.
