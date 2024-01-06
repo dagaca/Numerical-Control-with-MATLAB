@@ -66,4 +66,5 @@ GMd = 20 * log10(GM);
 1. Bu repo'yu bilgisayarınıza klonlayın.
    ```bash
    git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+   ```
 2. MATLAB'e gidin ve bodeDiagramAnalysis.m dosyasını açın.
