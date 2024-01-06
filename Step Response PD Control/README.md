@@ -18,9 +18,9 @@ Sistem transfer fonksiyonunun matematiksel açıklaması ve elde edilişi:
 tf_sys = tf([1630.53 1222897.5], [1 1991.73 1222897.5]);
 step(tf_sys);
 legend('Kp=1.5, Kd=0.002');
+exit;
 
 ![stepresponse](https://github.com/dagaca/Numerical-Control-with-MATLAB/assets/80363244/f516c2e2-9ab5-4d32-9b30-c11f57d74c20)
-
 
 ## Performans Analizi
 PD kontrolünün etkisi aşağıdaki gibidir:
