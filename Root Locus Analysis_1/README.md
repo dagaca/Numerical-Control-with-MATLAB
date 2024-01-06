@@ -1,8 +1,8 @@
-# Root Locus Analysis
-Bu MATLAB projesi, bir sistem transfer fonksiyonunun karakteristik eşitliğinin kökeğrilerini görselleştirmek için kullanılmaktadır.
+# Root Locus Analysis_1
+Bu MATLAB projesi, bir sistem transfer fonksiyonunun karakteristik eşitliğinin kök eğrilerini görselleştirmek için kullanılmaktadır.
 
 ## Matematiksel İşlemler ve Karakteristik Eşitlik
-Verilen karakteristik eşitlik aşağıdaki gibidir:
+Karakteristik eşitlik aşağıdaki gibidir:
 
 ![karakteristikeşitlik](https://github.com/dagaca/Numerical-Control-with-MATLAB/assets/80363244/eb152f7f-4206-4535-8aad-ebe242ee2c4c)
 
