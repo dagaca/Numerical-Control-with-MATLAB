@@ -50,3 +50,11 @@ grid on;
 - Sistem tüm kazanç değerlerinde kararlıdır (0 < K < ∞).
 - Sistemde 4 kutup ve 4 kol sayısı bulunmaktadır.
 - Asimptot açıları 90° ve 270°’dir.
+
+
+## Nasıl Başlamalı?
+1. Bu repo'yu bilgisayarınıza klonlayın.
+   ```bash
+   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+   ```
+2. MATLAB'e gidin ve rootLocusAnalysis_2.m dosyasını açın.
