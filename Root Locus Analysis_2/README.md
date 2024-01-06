@@ -47,6 +47,6 @@ grid on;
 - Sistemin -5, -6 noktalarında birer tane kökü bulunmaktadır.
 - Sistemin -2 noktasında çift katlı bir kökü vardır. Toplamda 4 kök bulunmaktadır.
 - Sistemin 0+2i ve 0-2i noktalarında olmak üzere 2 tane sıfırı vardır.
-- Sistem tüm kazanç değerlerinde kararlıdır ( \(0 < K < ∞) ).
+- Sistem tüm kazanç değerlerinde kararlıdır (0 < K < ∞).
 - Sistemde 4 kutup ve 4 kol sayısı bulunmaktadır.
 - Asimptot açıları 90° ve 270°’dir.
