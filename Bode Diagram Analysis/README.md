@@ -60,3 +60,10 @@ GMd = 20 * log10(GM);
 - Sistem faz marjini pozitif bir değere sahiptir ( -180°'den büyük ), bu da faz marjini açısından kararlı olduğunu gösterir.
 - Sistem kazanç marjini 0 dB'den küçüktür, bu da kazanç marjini açısından kararlı olduğunu gösterir.
 - Sistem, hem faz marjini hem de kazanç marjini açısından kararlıdır, bu iki şartı sağladığı için sistem kararlıdır.
+
+
+## Nasıl Başlamalı?
+1. Bu repo'yu bilgisayarınıza klonlayın.
+   ```bash
+   git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+2. MATLAB'e gidin ve bodeDiagramAnalysis.m dosyasını açın.
