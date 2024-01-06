@@ -54,4 +54,5 @@ hold off;
 1. Bu repo'yu bilgisayarınıza klonlayın.
    ```bash
    git clone https://github.com/dagaca/Numerical-Control-with-MATLAB.git
+   ```
 2. MATLAB'e gidin ve nyquistDiagramAnalysis.m dosyasını açın.
